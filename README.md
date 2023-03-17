@@ -10,7 +10,8 @@ Foi pensado e idealizado para ser o primeiro projeto em contato com o React.
 
 ## 🔨 Funcionalidades do projeto
 
-Você pode passear <a href="https://cursos.alura.com.br/course/react-desenvolvendo-javascript" target="_blank">no figma</a> para entender a arte conceitual do projeto.
+Você pode passear <a href="https://projeto-orgono-ts.vercel.app/" target="_blank">no Site</a> para entender a arte conceitual do projeto.<br>
+<b>Esse site foi Refatorado para typescript</b>
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
